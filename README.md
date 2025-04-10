@@ -1,5 +1,3 @@
-# text-summarizer-nlp
-A project to summarize long texts using Natural Language Processing techniques.
 # 📄 Text Summarizer using NLP
 
 This project demonstrates a **Text Summarizer** built using Natural Language Processing (NLP) techniques in Python. It aims to automatically summarize long paragraphs, articles, or documents into concise and readable summaries.
@@ -43,7 +41,8 @@ From a long paragraph, the summarizer generates a short version:
 "India has shown rapid growth in the tech sector, especially in AI and automation..."
 ```
 ---
-## 🙌 Author - **Anwer Zain**\
+## 🙌 Author 
+**Anwer Zain**\
 Data Science Enthusiast | NLP Learner\
 📧 [anwerkhan19@gmail.com](mailto\:anwerkhan19@gmail.com)
 
